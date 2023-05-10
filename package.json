@@ -6,6 +6,7 @@
     "packages/*"
   ],
   "devDependencies": {
-    "lerna": "^6.6.2"
+    "lerna": "^6.6.2",
+    "Dennes": "^1.0.0"
   }
 }
